@@ -26,7 +26,7 @@ namespace Iperf_Tools
     {
         public static bool PC_State = false;
         public static string IP_Adress_Str = "";
-        public static int IP_PortNum = 00;
+        public static int IP_PortNum = 0;
         public MainWindow()
         {
             InitializeComponent();
