@@ -1,0 +1,27 @@
+C:\Users\Jun\Desktop\Iperf_Tools2\Iperf_Tools\Iperf_Tools\bin\Debug\Iperf_Tools.exe.config
+C:\Users\Jun\Desktop\Iperf_Tools2\Iperf_Tools\Iperf_Tools\bin\Debug\Iperf_Tools.exe
+C:\Users\Jun\Desktop\Iperf_Tools2\Iperf_Tools\Iperf_Tools\bin\Debug\Iperf_Tools.pdb
+C:\Users\Jun\Desktop\Iperf_Tools2\Iperf_Tools\Iperf_Tools\obj\Debug\Iperf_Tools.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Desktop\Iperf_Tools2\Iperf_Tools\Iperf_Tools\obj\Debug\MainWindow.baml
+C:\Users\Jun\Desktop\Iperf_Tools2\Iperf_Tools\Iperf_Tools\obj\Debug\MainWindow.g.cs
+C:\Users\Jun\Desktop\Iperf_Tools2\Iperf_Tools\Iperf_Tools\obj\Debug\App.g.cs
+C:\Users\Jun\Desktop\Iperf_Tools2\Iperf_Tools\Iperf_Tools\obj\Debug\Iperf_Tools_MarkupCompile.cache
+C:\Users\Jun\Desktop\Iperf_Tools2\Iperf_Tools\Iperf_Tools\obj\Debug\Iperf_Tools.g.resources
+C:\Users\Jun\Desktop\Iperf_Tools2\Iperf_Tools\Iperf_Tools\obj\Debug\Iperf_Tools.Properties.Resources.resources
+C:\Users\Jun\Desktop\Iperf_Tools2\Iperf_Tools\Iperf_Tools\obj\Debug\Iperf_Tools.csproj.GenerateResource.Cache
+C:\Users\Jun\Desktop\Iperf_Tools2\Iperf_Tools\Iperf_Tools\obj\Debug\Iperf_Tools.exe
+C:\Users\Jun\Desktop\Iperf_Tools2\Iperf_Tools\Iperf_Tools\obj\Debug\Iperf_Tools.pdb
+F:\Code Backup\Iperf_Tools\Iperf_Tools\bin\Debug\Iperf_Tools.exe.config
+F:\Code Backup\Iperf_Tools\Iperf_Tools\bin\Debug\Iperf_Tools.exe
+F:\Code Backup\Iperf_Tools\Iperf_Tools\bin\Debug\Iperf_Tools.pdb
+F:\Code Backup\Iperf_Tools\Iperf_Tools\obj\Debug\Iperf_Tools.csprojAssemblyReference.cache
+F:\Code Backup\Iperf_Tools\Iperf_Tools\obj\Debug\MainWindow.baml
+F:\Code Backup\Iperf_Tools\Iperf_Tools\obj\Debug\MainWindow.g.cs
+F:\Code Backup\Iperf_Tools\Iperf_Tools\obj\Debug\App.g.cs
+F:\Code Backup\Iperf_Tools\Iperf_Tools\obj\Debug\Iperf_Tools_MarkupCompile.cache
+F:\Code Backup\Iperf_Tools\Iperf_Tools\obj\Debug\Iperf_Tools.g.resources
+F:\Code Backup\Iperf_Tools\Iperf_Tools\obj\Debug\Iperf_Tools.Properties.Resources.resources
+F:\Code Backup\Iperf_Tools\Iperf_Tools\obj\Debug\Iperf_Tools.csproj.GenerateResource.cache
+F:\Code Backup\Iperf_Tools\Iperf_Tools\obj\Debug\Iperf_Tools.csproj.CoreCompileInputs.cache
+F:\Code Backup\Iperf_Tools\Iperf_Tools\obj\Debug\Iperf_Tools.exe
+F:\Code Backup\Iperf_Tools\Iperf_Tools\obj\Debug\Iperf_Tools.pdb

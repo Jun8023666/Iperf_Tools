@@ -1,0 +1,16 @@
+﻿<Window x:Name="Iperf_Tools" x:Class="Iperf_Tools.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Iperf_Tools(GTS)" Height="350" Width="525" Background="Azure">
+    <Grid>
+        <Button Content="Start" Name="StartButton" HorizontalAlignment="Left" Margin="30,95,0,0" VerticalAlignment="Top" Width="111" Click="Button_Click" Height="34" FontSize="16"/>
+        <ComboBox HorizontalAlignment="Left" Name="IP_Com" Margin="110,27,0,0" VerticalAlignment="Top" Width="136" Height="27" FontSize="16" />
+        <Label Content="IP Adress:" HorizontalAlignment="Left" Margin="10,24,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label Content="IP Adress:" HorizontalAlignment="Left" Margin="277,27,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <TextBox HorizontalAlignment="Left" Name="IP_PORT" Height="27" Margin="367,27,0,0" TextWrapping="Wrap" Text="5001" TextAlignment="Center" VerticalAlignment="Top" Width="127" FontSize="16"/>
+        <Button Content="Refresh" Name="RefreshButton" HorizontalAlignment="Left" Margin="211,95,0,0" VerticalAlignment="Top" Width="105" Height="34" FontSize="16" Click="Button_Click_1"/>
+        <TextBox Name="Infor_Text" HorizontalAlignment="Left" Height="165" Margin="10,144,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="497" IsReadOnlyCaretVisible="True" FontSize="16"/>
+        <Button Content="Clear" Name="Clear" HorizontalAlignment="Left" Margin="378,95,0,0" VerticalAlignment="Top" Width="105" Height="34" FontSize="16" Click="Button_Click_3"/>
+
+    </Grid>
+</Window>
